@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Kavish 👋<br><br>🎓 B.Tech Student<br><br>💻 Tech Stack:<br>- Java<br>- C++<br>- SQL<br>- HTML<br>- CSS<br>- JavaScript<br><br>📚 Currently Learning:<br>- Data Structures & Algorithms<br>- Advanced Java<br><br>🚀 Goals:<br>- Improve problem-solving<br>- Build real-world projects<br>- Secure a Software Development Internship
+ Hi there, I'm Kavish 👋<br><br>🎓 B.Tech Student<br><br>💻 Tech Stack:<br>- Java<br>- C++<br>- SQL<br>- HTML<br>- CSS<br>- JavaScript<br><br>📚 Currently Learning:<br>- Data Structures & Algorithms<br>- Advanced Java<br><br>🚀 Goals:<br>- Improve problem-solving<br>- Build real-world projects<br>- Secure a Software Development Internship
 
 
 ## 🌐 Socials:
